@@ -1,0 +1,119 @@
+{
+    "addFriendsComponent": {
+        "addFriendsInputTitle": "Add friends:",
+        "columns": {
+            "name": "Name",
+            "remove": "Remove"
+        },
+        "noFriendsMessage": "You have no friends, please add some",
+        "notifications": {
+            "added": {
+                "content": "New friend successfully added",
+                "title": "Friends"
+            },
+            "removed": {
+                "content": "{{name}} was removed from your friend list",
+                "title": "Friends"
+            }
+        },
+        "removeFriendInputTitle": "remove friend",
+        "yourFriendsTableTitle": "Your Friends:"
+    },
+    "appnotifications": {
+        "firststeps": "Go to the first steps page to ensure the app is setup and working correctly",
+        "updateAvailable": {
+            "clickToDownloadBtnLabel": "click to download",
+            "downloadProgressBtnLabel": "downloading {{num}}%",
+            "title": "Updated version v{{version}} is now available.",
+            "updateReadyInstallNowBtnLabel": "update ready, install now"
+        }
+    },
+    "dropDownLists": {
+        "noValue": "none",
+        "searchLabel": "Search..",
+        "selectAnOption": "Select an option"
+    },
+    "linkLabel": "link",
+    "onOffSwitch": {
+        "off": "off",
+        "on": "on"
+    },
+    "previewButton": {
+        "tooltip": "Click to see the preview"
+    },
+    "unspecified": [
+        "translate"
+    ],
+    "widgets": {
+        "0": "Current Position",
+        "1": "Controls",
+        "2": "Speed",
+        "3": "Rpm",
+        "4": "Track temp",
+        "5": "SoF",
+        "6": "Track time",
+        "7": "Incidents",
+        "8": "Session Timer",
+        "9": "Lap Counter",
+        "10": "Local PC time",
+        "11": "Wind speed",
+        "12": "Last laptime",
+        "13": "Brake bias",
+        "14": "Water temp",
+        "15": "Oil temp",
+        "16": "Drs indicator",
+        "17": "ARB Blades Front",
+        "18": "ARB Blades Rear",
+        "19": "Air temp",
+        "20": "Track name",
+        "21": "Series name",
+        "22": "Curr. driver (long)",
+        "23": "Curr. driver (short)",
+        "24": "Traction Control",
+        "26": "Car setup name",
+        "27": "Gear number",
+        "30": "Session type",
+        "31": "Car name",
+        "32": "Weight Jacker",
+        "33": "Position Gained",
+        "34": "Traction Control #2",
+        "35": "SOF Overview",
+        "36": "Session Time Countdown",
+        "37": "Car Number",
+        "38": "Fuel",
+        "39": "iRating Gain",
+        "40": "Local PC time (AM/PM)",
+        "41": "Push To Pass",
+        "42": "Fastest LapTime",
+        "43": "LapTime delta (Personal Best)",
+        "44": "Ai Difficulty",
+        "45": "Track grip status",
+        "46": "W12 Differential (Minimal)",
+        "47": "W12 Differential (Short)",
+        "48": "W12 Differential (Full)",
+        "49": "ERS battery charge",
+        "50": "W12 MGUK Deploy mode",
+        "51": "Streamer Viewer Count",
+        "52": "Driver's Car Image",
+        "53": "Fuel Mixture",
+        "215": "Abs",
+        "None": "None",
+        "-1": "None",
+        "25": "Abs",
+        "56": "Elo Gain",
+        "55": "Rain Intensity",
+        "54": "Weather",
+        "57": "Total Number of Drivers",
+        "58": "Total Number of Class Drivers",
+        "59": "Streamer's last subscriber",
+        "60": "Current Lap Time",
+        "61": "Current Lap Number",
+        "62": "Abs Engage Indicator",
+        "63": "Remaining Laps",
+        "64": "LapTime delta (Personal Session Best)",
+        "65": "Relative Humidity (pct)",
+        "67": "Heart rate (peak)",
+        "66": "Heart rate",
+        "68": "Burned calories"
+    }
+}

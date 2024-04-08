@@ -1,0 +1,237 @@
+{
+    "discordBtnLabel": "discord server",
+    "helpOnDiscord": "We'll help you on our discord server:",
+    "moduleInformation": "Need extra help, have some suggestions?",
+    "topics": {
+        "FIRST_STEPS": {
+            "accContent": [
+                "What do I need to change in ACC to make the app fully compatible?",
+                "The following settings are crucial to make the app work without any problems.",
+                "ACC game to run in windowed(fullscreen) mode. Follow the following steps:",
+                "Start up ACC game",
+                "Choose <strong>options</strong>",
+                "Choose <strong>video</strong>",
+                "Set FULLSCREEN to <strong>DISABLED</strong>",
+                "And at last, you have to turn on your telemetry data:",
+                "Open up your file explorer",
+                "Navigate to the following path:",
+                "Open up the file and change it's content to the following:",
+                "If you had ACC running, please quit from the game, and also restart racelab"
+            ],
+            "f1Content": [
+                "What do I need to change in F1 to make the app fully compatible?",
+                "The following settings are crucial to make the app work without any problems.",
+                "F1 game to run in windowed(fullscreen) mode. Follow the following steps:",
+                "Start up F1 game",
+                "Choose <strong>Game options</strong>",
+                "Choose <strong>Settings</strong>",
+                "Choose <strong>Graphics Settings</strong>",
+                "Choose <strong>Video Mode</strong>",
+                "Set <strong>Display Mode</strong> to <strong>Windowed(fullscreen)</strong>",
+                "And at last, you have to turn on your telemetry data:",
+                "Start up F1 game",
+                "Choose <strong>Game options</strong>",
+                "Choose <strong>Settings</strong>",
+                "Choose <strong>Telemetry Settings</strong>",
+                "Set <strong>UDP Format</strong> to the latest UPD version. If you're playing with F1 2023 then set the UDP version to <strong>2022</strong>",
+                "Set <strong>UDP Rate</strong> to <strong>60Hz</strong>"
+            ],
+            "iRacingContent": [
+                "What do I need to change in iRacing to make the app fully compatible?",
+                "The following settings are crucial to make the app work without any problems.",
+                "Set iRacing windowed and borderless mode. You can find it within the game under the <strong>graphics</strong> tab. Unselect the <strong>Full Screen</strong> and the <strong>Border</strong> boxes. (visually there will be no difference. Windowed borderless mode looks exaclty the same as fullscreen mode. Make sure you restart iRacing after this change. )",
+                "Set the <strong>Max Cars</strong> to <strong>63</strong> (this will not cause any performance impact, this settings is purely for how many drivers you get data from iracing)",
+                "In case you experimenting issues with standings and driver positions, make sure you set your network bandwidth in your iracing's account settings. You can find it on the iracing website under <i>account</i> page. Set <i>Connection Type</i> to 1Mbit/sec."
+            ],
+            "title": "First Steps",
+            "rfactor2Content": [
+                "What do I need to change in Rfactor2 to make the app fully compatible?",
+                "The following settings are crucial to make the app work without any problems.",
+                "Download the dll file:",
+                "Copy the file to your steam folder into the following path:",
+                "Start up Rfactor2 game",
+                "Click on the settings icon",
+                "Make sure you are in the GAMEPLAY tab",
+                "In the PLUGINS section, turn <strong>rFactor2SharedMemoryMapPlugin.dll</strong> to 'on'",
+                "Navigate to the GRAPHICS section",
+                "In the DISPLAY section choose <strong>borderless</strong> for the video mode",
+                "Restart Rfactor2"
+            ],
+            "assettocorsa": {
+                "title": "What do I need to do to set up Racelab with Assetto Corsa?",
+                "step2": {
+                    "content5": "Restart Assetto Corsa game",
+                    "content": "Open Assetto Corsa game and click on the 'Main Menu':",
+                    "titl": "In-Game Setting: Enable Plugin",
+                    "content2": "Click on the options menu:",
+                    "content3": "Click on the general submenu:",
+                    "content4": "Enable RacelabLib plugin:"
+                },
+                "step1": {
+                    "title": "Racelab Library Plugin Installation",
+                    "content": "Download the AC plugin here:",
+                    "content2": "Extract and copy it to the following folder in your computer:"
+                }
+            },
+            "lmu": {
+                "title": "What do I need to change in Le Mans Ultimate game to make the app fully compatible?",
+                "copyToSteamFolder": "Copy the file to your steam folder into the following path:",
+                "saveAndStartGame": "Make sure the file is saved, then start the game.",
+                "subtitle": "The following settings are crucial to make the app work without any problems.",
+                "findAndEdit": "Find and open the following file for edit:",
+                "downloadDll": "Download the dll file:",
+                "addRacelabPlugin": "Add the racelab plugin to the file in the following way:",
+                "goToGraphicsMenu": "click on the graphics menu",
+                "clickOnSettingsMenu": "click on the settings icon",
+                "restartGame": "restart game",
+                "windowModeToBorderless": "set window mode to borderless",
+                "verticalSyncToVideo": "set verticalSync to video"
+            }
+        },
+        "HOW_MUCH_RESOURCES_WE_USE": {
+            "contents": [
+                "How much resources/CPU is this application using?",
+                "The application is being built with the focus of being efficient for your CPU, memory and GPU.",
+                "We all know how heavy iRacing is already, and it is essential to have an overlay application that is using the minimum possible resources",
+                "Currently the application is not using more than 1-5% CPU on an average CPU (i5-i7)",
+                "Exact measurement was done on an AMD 3950 CPU",
+                "<strong>Running 3 overlays</strong> (Standings, Relative Positions, Advanced Panel) is <strong>using 1.5% of the CPU</strong> at the moment."
+            ],
+            "title": "How much resources/CPU is this application using?"
+        },
+        "HOW_TO_CONFIGURE": {
+            "contents": [
+                "How do I configure the overlays?",
+                "Every overlay is customizable. This means that you can change what information is visible on the overlay.",
+                "Every overlay is going to show a preview on the top of the page to give you the best idea about how your changes affected the overlay. The highlighted area is where the preview is located on the page:",
+                "Every overlay has a customizable panel where you can change the behavior of the overlay. The customization panel is located on the bottom side of the overlay page. <br /> Let's have an example with the <strong>Relative Positions</strong> The highlighted area is where you can apply your changes to the overlay:",
+                "The configuration is usually separated to many tabs to make it easier to find what you are looking for.",
+                "Every time you change a configuration, it will be immediately applied to all the overlay windows that you have currently open. This means you don't have to close and re-open your overlays, you can change them on the fly."
+            ],
+            "title": "How can I configure the overlays?"
+        },
+        "HOW_TO_REPORT_BUG": {
+            "contents": [
+                "How can I report a bug?",
+                "Go to our discord server:",
+                "racelab discord server",
+                "Find <strong>#report-bug</strong> channel, and simply send us your findings. Please try to be specific."
+            ],
+            "title": "How can I report a bug?"
+        },
+        "HOW_TO_SEND_SUGGESTIONS": {
+            "contents": [
+                "How can I send my ideas / suggestions?",
+                "The easiest way is to use our discord server:",
+                "racelab discord server",
+                "Find <strong>#suggestions</strong> channel, and post your idea/suggestion.",
+                "We believe in the power of community, please do share your ideas to improve the application we'll love to use."
+            ],
+            "title": "How can I send my ideas / suggestions?"
+        },
+        "HOW_TO_UPDATE_THE_APP": {
+            "contents": [
+                "How do I update RacelabApps?",
+                "There are essentially two ways to update the application. Automatically or manually.",
+                "<i>Automatic updates:</i> Whenever a new version is available, the application will download it in the background. Once the update is ready, you'll see a notification bar on the top of the application, telling you that there is an update available. Once you click on the download button in the notification bar, the application will start updating itself.",
+                "<i>Manual updates:</i> Using the RaceLab webpage and clicking on the download button:",
+                "link"
+            ],
+            "title": "How can I update the app?"
+        },
+        "HOW_TO_USE_OVERLAYS": {
+            "hotToUseOverlayAsStreamer": [
+                "How do I use overlays as a Streamer?",
+                "Click on the <strong>Overlay</strong> menu",
+                "Choose an overlay (e.g.: <strong>Relative Positions</strong>)",
+                "Copy the browser url shown in the overlay page. In our example it's the following:",
+                "If you are using a dual-streaming setup, you can simply change the <strong>localhost</strong> part to your PC's ip address. As an example, if your non-streaming pc's ip address is <strong>192.168.1.15</strong> then it means you'll need to load the overlay in your streaming pc with the following url:",
+                "If you are using OBS or similar streaming application, you can simply add a new browser source and paste the previously copied browser url into it",
+                "Start your game (join to a session)",
+                "As soon as the game loads, the overlay will show up on the screen."
+            ],
+            "howToUseLayouts": [
+                "How do I use <strong>layouts</strong>?",
+                "Layouts are great way to organize your overlays and use a set of overlays when you're racing in different sessions. Layouts gives you the dynamics to define which overlay should show in different sessions. The following steps are just a brief introduction. Layouts are complex and feature-rich, we suggest you explore the feature for yourself and/or watch the video about layouts and how to use them.",
+                "link to video",
+                "Click on the <strong>Layouts</strong> menu",
+                "Create or open a layout from the layout list",
+                "Set on which screen layout should show",
+                "Set the resolution of that screen",
+                "From the list of overlays, add and move the overlays within the layout editor.",
+                "Click on the 'open layout' button to open the transparent layout window",
+                "Start your game (join to a session)",
+                "As soon as the game loads, the layout will show up on the screen. Layouts are not movable, they always in a locked state."
+            ],
+            "howToUseOverlays": [
+                "How do I use overlays",
+                "There are two ways of using overlays. Using <strong>standalone</strong> overlays individually or using the <strong>layout</strong> feature."
+            ],
+            "howToUseStandaloneOverlays": [
+                "How do I use <strong>standalone</strong> overlays?",
+                "Click on the <strong>Overlay</strong> menu",
+                "Choose an overlay (e.g.: <strong>Relative Positions</strong>)",
+                "Click on the open overlay button to open the transparent window with the overlay running inside",
+                "Start your game (join to a session)",
+                "As soon as the game loads, the overlay will show up on the screen. You can click on the overlay and drag them with your mouse to place it to your preferred position",
+                "Lock the overlay position using the (lock/unlock) button."
+            ],
+            "title": "How to use overlays?"
+        },
+        "HOW_TO_USE_VR_INTEGRATION": {
+            "credits": [
+                "Full credits for the VR native application goes to:"
+            ],
+            "editMode": [
+                "Edit mode",
+                "Move left - right - up - down",
+                "Click and hold left mouse button to translate the window left right up and down on the iRacing HUD plane, when holding left button, click Middle ( mouse wheel ) button to reset your translation and depth modifications.",
+                "Click Middle ( mouse wheel ) button to reset your translation and depth modifications.",
+                "Move closer - further",
+                "While holding left button in Translation mode, hold the right button, the border will change to ORANGE you will be able to edit the Depth of the overlay in the iRacing plane.",
+                "Then move the mouse up and down to move the overlay back and forth.",
+                "To reset, in Translation mode, hold left click and click the middle button, it will reset the translation and the depth.",
+                "Rotation",
+                "Edit Rotation Mode To enter the Edit Rotation mode, hold the mouse middle button, the border will change to PINK.",
+                "While holding the middle button, move the mouse to change the yaw and the pitch of the overlay.",
+                "You can reset your rotation by clicking the mouse right button while holding the middle button."
+            ],
+            "howToUseIt": [
+                "How to use it",
+                "Activating VR mode",
+                "First you need to active the VR mode.",
+                "Vr mode currently is a global setting. Which means once you turn it on, it will be active for the other overlays as well. Later on we'll make it a lot more customizable.",
+                "First Run",
+                "After running and first time , the Overlays will appear in the center of the view.",
+                "Edit mode",
+                "To edit the Overlay windows, double press TAB, to enter the edit mode.",
+                "When entering Edit mode of an overlay a yellow border will be displayed around it.",
+                "To select the next window , press TAB, the app will exit edit mode when pressing TAB on the last Overlay window."
+            ],
+            "howToUseOverlaysInVr": [
+                "How do I use overlays in VR?",
+                "Quick explanation with a video:"
+            ],
+            "installation": [
+                "Installation",
+                "There is only 1 requirement:",
+                "Please make sure the following software is installed on your pc before using VR mode:"
+            ],
+            "tips": [
+                "Tips",
+                "Quality in VR",
+                "To get the best quality in VR, set the 'font size' settings for the overlay to the maximum."
+            ],
+            "title": "How do I use overlays in VR?"
+        },
+        "WHAT_KEYBOARD_SHORTCUTS_AVAILABLE": {
+            "contents": [
+                "What keyboard shortcuts does the app have?",
+                "You can find and change the shortcuts and key bindings in the key and button bindings settings page:",
+                "link"
+            ],
+            "title": "What keyboard shortcuts does the app have?"
+        }
+    },
+    "unspecified": "[translate]"
+}

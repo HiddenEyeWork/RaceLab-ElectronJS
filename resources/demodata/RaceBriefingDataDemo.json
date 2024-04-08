@@ -1,0 +1,597 @@
+{
+  "results": [
+    {
+      "customerId": 118444,
+      "driverName": "Bastian Keil",
+      "clubName": "DE-AT-CH",
+      "clubNameShort": "DE-AT-CH",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-07T11:00:00.0000000Z",
+          "position": { "startedInClass": 9, "started": 1, "finishedInClass": 1, "finished": 1 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "race": {
+            "averageLapTime": "00:01:42.6325000",
+            "classInterval": "00:00:00",
+            "bestLapTime": "00:01:41.1357000",
+            "incidents": 6,
+            "championshipPoints": 68
+          }
+        },
+        {
+          "startTime": "2020-12-04T11:00:00.0000000Z",
+          "position": {
+            "startedInClass": 10,
+            "started": 11,
+            "finishedInClass": 11,
+            "finished": 11
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "race": {
+            "averageLapTime": "00:01:43.2957000",
+            "bestLapTime": "00:01:40.3294000",
+            "incidents": 7,
+            "championshipPoints": 3
+          }
+        },
+        {
+          "startTime": "2020-12-04T10:00:00.0000000Z",
+          "position": {
+            "startedInClass": 12,
+            "started": 11,
+            "finishedInClass": 11,
+            "finished": 11
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "race": { "averageLapTime": "00:00:00", "incidents": 4, "championshipPoints": 0 }
+        },
+        {
+          "startTime": "2020-12-04T09:00:00.0000000Z",
+          "position": { "startedInClass": 6, "started": 2, "finishedInClass": 2, "finished": 2 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "race": {
+            "averageLapTime": "00:01:42.7345000",
+            "classInterval": "00:00:01.5784000",
+            "bestLapTime": "00:01:40.7629000",
+            "incidents": 1,
+            "championshipPoints": 67
+          }
+        },
+        {
+          "startTime": "2020-12-03T22:00:00.0000000Z",
+          "position": { "startedInClass": 1, "started": 3, "finishedInClass": 3, "finished": 3 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:40.6240000",
+            "classInterval": "00:00:00",
+            "bestLapTime": "00:01:40.6240000",
+            "incidents": 1,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:42.4380000",
+            "classInterval": "00:00:13.0419000",
+            "bestLapTime": "00:01:41.4503000",
+            "incidents": 11,
+            "championshipPoints": 61
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 164259,
+      "driverName": "Levi Polkinghorne",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-07T09:00:00.0000000Z",
+          "position": { "startedInClass": 4, "started": 1, "finishedInClass": 1, "finished": 1 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:41.1038000",
+            "classInterval": "00:00:00.1497000",
+            "bestLapTime": "00:01:41.1038000",
+            "incidents": 3,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:42.4732000",
+            "classInterval": "00:00:00",
+            "bestLapTime": "00:01:40.8432000",
+            "incidents": 7,
+            "championshipPoints": 76
+          }
+        },
+        {
+          "startTime": "2020-12-07T08:00:00.0000000Z",
+          "position": { "startedInClass": 7, "started": 8, "finishedInClass": 8, "finished": 8 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 1, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:41.8723000",
+            "classInterval": "00:00:01.8601000",
+            "bestLapTime": "00:01:41.8723000",
+            "incidents": 2,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:45.0443000",
+            "bestLapTime": "00:01:41.4953000",
+            "incidents": 17,
+            "championshipPoints": 28
+          }
+        },
+        {
+          "startTime": "2020-12-06T08:00:00.0000000Z",
+          "position": { "startedInClass": 1, "started": 1, "finishedInClass": 1, "finished": 1 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 1, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:41.6026000",
+            "classInterval": "00:00:00",
+            "bestLapTime": "00:01:41.0956000",
+            "incidents": 2,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:42.5187000",
+            "classInterval": "00:00:00",
+            "bestLapTime": "00:01:41.1571000",
+            "incidents": 5,
+            "championshipPoints": 76
+          }
+        },
+        {
+          "startTime": "2020-12-06T06:00:00.0000000Z",
+          "position": { "startedInClass": 3, "started": 11, "finishedInClass": 11, "finished": 11 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:41.7467000",
+            "classInterval": "00:00:01.5887000",
+            "bestLapTime": "00:01:41.7467000",
+            "incidents": 1,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:42.3000000",
+            "bestLapTime": "00:01:40.9678000",
+            "incidents": 18,
+            "championshipPoints": 7
+          }
+        },
+        {
+          "startTime": "2020-12-06T05:00:00.0000000Z",
+          "position": { "startedInClass": 2, "started": 9, "finishedInClass": 9, "finished": 9 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:41.1471000",
+            "classInterval": "00:00:00.3783000",
+            "bestLapTime": "00:01:41.1471000",
+            "incidents": 5,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:43.0911000",
+            "bestLapTime": "00:01:41.2930000",
+            "incidents": 17,
+            "championshipPoints": 21
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 339867,
+      "driverName": "Alvis Pham",
+      "clubName": "California Club",
+      "clubNameShort": "California",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T03:00:00.0000000Z",
+          "position": {
+            "startedInClass": 12,
+            "started": 11,
+            "finishedInClass": 11,
+            "finished": 11
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 4, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.1688000",
+            "classInterval": "00:00:08.2963000",
+            "bestLapTime": "00:01:49.1688000",
+            "incidents": 4,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.6017000",
+            "classInterval": "00:00:54.2347000",
+            "bestLapTime": "00:01:47.4543000",
+            "incidents": 11,
+            "championshipPoints": 36
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 177295,
+      "driverName": "Hunter Chao2",
+      "clubName": "Florida",
+      "clubNameShort": "Florida",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-02T08:00:00.0000000Z",
+          "position": { "startedInClass": 5, "started": 7, "finishedInClass": 7, "finished": 7 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:43.2622000",
+            "classInterval": "00:00:01.7787000",
+            "bestLapTime": "00:01:43.2622000",
+            "incidents": 2,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:47.9378000",
+            "bestLapTime": "00:01:44.0563000",
+            "incidents": 17,
+            "championshipPoints": 30
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 375690,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": {
+            "startedInClass": 18,
+            "started": 18,
+            "finishedInClass": 18,
+            "finished": 18
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:47.1410000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:46.4310000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:48.4442000",
+            "incidents": 18,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 143022,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 7, "started": 18, "finishedInClass": 20, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.1190000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:48.9340000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.7882000",
+            "incidents": 16,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 127961,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": {
+            "startedInClass": 22,
+            "started": 18,
+            "finishedInClass": 21,
+            "finished": 18
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:46.8770000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:46.6770000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.6322000",
+            "incidents": 21,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 386948,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 8, "started": 18, "finishedInClass": 22, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:51.7810000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:50.9390000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.2342000",
+            "incidents": 25,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 287888,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 3, "started": 18, "finishedInClass": 18, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.1310000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:49.1310000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:46.1232000",
+            "incidents": 11,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 385865,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": {
+            "startedInClass": 13,
+            "started": 18,
+            "finishedInClass": 28,
+            "finished": 18
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:47.2110000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:47.2220000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:48.2982000",
+            "incidents": 2,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 402884,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 2, "started": 18, "finishedInClass": 16, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:51.4520000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:50.5000000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.1112000",
+            "incidents": 16,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 143337,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 8, "started": 18, "finishedInClass": 18, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.6310000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:49.5310000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.2342000",
+            "incidents": 11,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 407353,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": {
+            "startedInClass": 13,
+            "started": 18,
+            "finishedInClass": 14,
+            "finished": 18
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.4510000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:49.3340000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.6542000",
+            "incidents": 4,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 152623,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 5, "started": 18, "finishedInClass": 18, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.8760000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:49.7770000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:47.8762000",
+            "incidents": 3,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 243521,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": {
+            "startedInClass": 14,
+            "started": 18,
+            "finishedInClass": 11,
+            "finished": 18
+          },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.6420000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:49.5420000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:49.2882000",
+            "incidents": 8,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    },
+    {
+      "customerId": 243521,
+      "driverName": "Elliot Hunter",
+      "clubName": "Australia/NZ",
+      "clubNameShort": "Australia/NZ",
+      "iRating": -1,
+      "raceSessions": [
+        {
+          "startTime": "2020-12-10T07:00:00.0000000Z",
+          "position": { "startedInClass": 8, "started": 18, "finishedInClass": 10, "finished": 18 },
+          "practice": { "averageLapTime": "00:00:00", "incidents": 0, "championshipPoints": 0 },
+          "qualify": {
+            "averageLapTime": "00:01:49.9990000",
+            "classInterval": "00:00:08.7895000",
+            "bestLapTime": "00:01:49.7000000",
+            "incidents": 6,
+            "championshipPoints": 0
+          },
+          "race": {
+            "averageLapTime": "00:01:52.5295000",
+            "bestLapTime": "00:01:48.1822000",
+            "incidents": 9,
+            "championshipPoints": 8
+          }
+        }
+      ]
+    }
+  ]
+}

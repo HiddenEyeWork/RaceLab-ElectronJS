@@ -1,0 +1,118 @@
+{
+    "layoutEditor": {
+        "addOverlay": "Add Overlay",
+        "addOverlayEmptyLabel": "Select Overlay to add",
+        "addOverlayTooltip": "Choose an overlay from the list to add",
+        "backToLayoutsBtnLabel": "Layouts",
+        "browserDemoUrl": "Browser url (demo)",
+        "browserDemoUrlTooltip": "url to use to see the layout with generated demo data in your streaming software",
+        "browserUrl": "Browser url (live)",
+        "browserUrlTooltip": "url to use in your streaming software",
+        "customOffset": "Custom Offset",
+        "customResolutionHorizontal": "Horizontal",
+        "customResolutionHorizontalTooltip": "The horizontal size of the layout on the X axes on your screen(s). (Double click for quick editing)",
+        "customResolutionVertical": "Vertical",
+        "customResolutionVerticalTooltip": "The vertical size of the layout on the Y axes on your screen(s). (Double click for quick editing)",
+        "layoutEditorTabs": {
+            "display": "display",
+            "stream": "stream"
+        },
+        "layoutTitle": "{{name}} layout",
+        "layoutTooltip": "Set the resolution as well as different overlays for both your own <strong>Display</strong> or <strong>Stream</strong>",
+        "notifications": {
+            "screenChangeContent": "Please reopen the layout window for the changes to take effect",
+            "screenChangeTitle": "screen change"
+        },
+        "overlaySettings": {
+            "deleteOverlayBtnTooltip": "Delete overlay",
+            "masterSettingsAlert": {
+                "closeBtnLabel": "close",
+                "content": "Your are using Master settings for this overlay, You will need to make changes to your master for this overlay.",
+                "disableMasterSettingsBtnLabel": "disable master",
+                "editMasterSettingsBtnLabel": "edit master settings",
+                "title": "Master Settings Enabled"
+            },
+            "openOverlaySettingsTooltip": "Open overlay settings",
+            "resetOverlayPosAndSettingsTooltip": "Reset overlay position and settings",
+            "useMasterSettings": "use master settings",
+            "useMasterSettingsTooltip": "Use your master overlay settings instead of configuring the overlay settings over and over again. This is your master overlay setting. The changes you make at your master overlay settings will be synced with this overlay settings.",
+            "disableOverlay": "disable",
+            "disableOverlayTooltip": "Disables the overlay in the layout . Useful if you don't want to delete it, just temporarly disabling it."
+        },
+        "overlaysSectionTitle": "overlays ({{num}})",
+        "resolution": "Resolution",
+        "resolutionCustomOffset": "Custom Resolution",
+        "resolutionEmptyLabel": "Select",
+        "resolutionTooltip": "Select a resolution that matches your screen resolution",
+        "screen": "Screen",
+        "screenOptions": "screen {{num}}",
+        "screenTooltip": "Select a screen the layout should activate on",
+        "sessionSpecific": "Session specific",
+        "sessionSpecificOptions": {
+            "practice": "Practice",
+            "qualy": "Qualy",
+            "race": "Race",
+            "test": "Test"
+        },
+        "sessionSpecificTooltip": "Choose session specific or all-in-one layout. Selecting Yes will let you define layouts for each sessions.",
+        "xOffset": "X offset",
+        "xOffsetTooltip": "The offset to set to the layout on the X axes on your screen(s). (Double click for quick editing)",
+        "yOffset": "Y offset",
+        "yOffsetTooltip": "The offset to set to the layout on the Y axes on your screen(s). (Double click for quick editing)"
+    },
+    "layoutListItem": {
+        "activatingConditions": {
+            "cars": "Cars",
+            "carsTooltip": "You can create a layout for specific cars. Choose a car and the layout will activate when you're using that car",
+            "category": "Category",
+            "gameMode": "Game Mode",
+            "gameModeTooltip": "You can create a layout for offline (solo, career mode) or decide to create a layout for multiplayer game mode",
+            "layoutName": "Name",
+            "layoutNameTooltip": "Name your layouts to easily identify it",
+            "listEmptyLabel": "All",
+            "series": "Series",
+            "spotter": "Spotter",
+            "spotterTooltip": "Create a spotter layout by turning this option on. The layout will activate when you're looking at someone."
+        },
+        "activeLabel": "active",
+        "activeLabelTooltip": "This layout is currently active. Layouts activate based on the conditions you set below (by clicking on the edit button)",
+        "badges": {
+            "allCars": "all Cars",
+            "allCategories": "all Categories",
+            "allGameModes": "all game modes",
+            "allSeries": "all Series",
+            "allSessions": "all Sessions"
+        },
+        "buttons": {
+            "copyBtnLabel": "copy",
+            "disableBtnLabel": "disable",
+            "enableBtnLabel": "enable",
+            "enterBtnLabel": "enter",
+            "exportLayoutBtnLabel": "export layout",
+            "toggleCloseBtnLabel": "close",
+            "toggleEditBtnLabel": "edit"
+        },
+        "conflictingLabel": "conflict",
+        "conflictingTooltip": "This layout is currently not active because it's conflicting with another layout. Layout conflicts happen when you define the same activation 'rules' (category, series, cars, etc..) for multiple layouts.",
+        "disabledLabel": "disabled",
+        "disabledLabelTooltip": "This layout is currently disabled. It will not activate, even if the layout conditions are met for this layout"
+    },
+    "mainLayoutPage": {
+        "accAdditionalInstructions": "Only one layout is active at a time, the one that meet the <strong>game mode</strong> and <strong>cars</strong> requirements the most.",
+        "f1AdditionalInstructions": "Only one layout is active at a time, the one that meet the <strong>game mode</strong> and <strong>cars</strong> requirements the most.",
+        "importLayoutBtnLabel": "import",
+        "instructions": "Layouts: You can create multiple layouts and assign specific category, series to it. There are always one layout activated on your screen, the one that is matching your category/series values you set for each layout.",
+        "iRacingAdditionalInstructions": "Only one layout is active at a time, the one that meet the <strong>category</strong> and <strong>series</strong> requirements the most.",
+        "newLayoutBtnLabel": "new layout",
+        "pageTitle": "Overlay layouts",
+        "tutorialVideoContent": "Watch the tutorial video that shows you how to use the layout builder step by step.",
+        "tutorialVideoTitle": "The new Layout Builder",
+        "lmuAdditionalInstructions": "Only one layout is active at a time, the one that meet the <strong>game mode</strong> requirement the most."
+    },
+    "newLayoutLabel": "new layout",
+    "openDemoLayoutsBtnLabel": "demo",
+    "openDemoLayoutsSubTitle": "open in demo overlay mode",
+    "openLayoutsBtnLabel": "open layouts",
+    "openLayoutsSubTitle": "open in overlay mode",
+    "unspecified": "[translate]"
+}

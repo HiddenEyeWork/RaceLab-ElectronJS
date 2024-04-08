@@ -1,0 +1,3 @@
+export enum AlertsEnum {
+  FIRST_STEPS_INSTRUCTIONS = "FIRST_STEPS_INSTRUCTIONS",
+}

@@ -1,0 +1,25 @@
+{
+  "cantSignIn": "can't sign in?",
+  "clickHere": "Click here",
+  "errors": {
+    "severNotRunning": {
+      "hint1": "Time to time anti-virus applications could start blocking the application. Please try to add RaceLab to the white list of your anti-virus application. Anti-virus application sometimes also have a 'live protection' section where the application can be also blocked. Make sure you whitelist RaceLab there too.",
+      "hint2": "RaceLab is using port {{number}}, which is essential for the application to run properly. Sometimes other applications can use the same port which will conflict with RaceLab when you're trying to start it.",
+      "hint3": "How to check if port {{number}} is used? Open 'Resource Manager' in windows, go to 'Network' tab and check the 'listening ports' section. Go through the list to check if port {{number}} is there and you will see which application is using it.",
+      "info": "RaceLab could not start properly",
+      "restartAfterDone": "Please restart RaceLab after these changes to see if you fixed the problem",
+      "subInfo": "Please make sure you check the following"
+    }
+  },
+  "linkLabel": "link",
+  "signInBtnLabel": "sign in",
+  "troubleShootSteps": {
+    "info": "Try the following to resolve the issue:",
+    "step1": "make sure you're not running any application on port <strong>{{port}}</strong>. If you don't know how you can check it, please have a look at the following:",
+    "step2": "make sure you have chrome installed",
+    "step3": "try to download the latest version from racelab.app website:",
+    "step4": "if still having problems, please contact us directly on our discord channel:",
+    "stepsCompletedBtnLabel": "steps completed"
+  },
+  "unspecific": "[translate]"
+}

@@ -1,0 +1,18 @@
+{
+    "drivertags": {
+        "section1Title": "keep track of your competitors",
+        "section1Content": "The new Driver Tags feature allows you to mark your competitors for quick and easy recognition. Perhaps you've come across an aggressive driver with a poor internet connection, and you want to remind yourself of that in case you encounter them again - or maybe you had a stunning battle with someone and you want to mark them as a clean driver or even a friend. Now you can - and you'll see those tags across your overlays as we roll out updates, starting with the standings.",
+        "section2Title": "how to add drivers",
+        "section2Content": "Each time you load into a session, the drivers you're competing against will appear in the \"recently raced\" list. Clicking \"Add driver\" will save that driver to \"My saved drivers\", where you can then tag them and add notes.",
+        "section2HighlightedMsg": "Any tags you assign are stored locally and wont be shared with anyone - unless you're streaming!",
+        "section3Title": "how to manage your tagged drivers",
+        "section3Content": "Once drivers are in your \"saved drivers\" list, you can add as many tags as you like. These tags will appear on your overlays so that you can easily identify these drivers. You can also add text notes to any driver to record specific information or incidents."
+    },
+    "statbot": {
+        "section1Title": "build a connection",
+        "section1Content": "Built specially for streamers, the new StatBot feature allows your audience to feel even more connected to you. They can type a pre-defined range of questions into your chat, and StatBot will answer them with real-time statistics - and its answers can range from your podium percentage to your current fuel level and track temperature.",
+        "section1HighlightedMsg": "you'll need to ensure your Twitch account is linked for this feature to work",
+        "section2Title": "customise your statbot",
+        "section2Content": "When we built StatBot, our goal was to give you as much control as possible; so you can customise everything it does. You can enable and disable specific individual prompts, and you can even restrict certain prompts to be only available to your Twitch subscribers."
+    }
+}

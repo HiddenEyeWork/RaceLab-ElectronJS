@@ -1,0 +1,49 @@
+{
+    "gopromodule": {
+        "content": "Get extra features and customization with a pro membership. You’ll also be supporting the team to bring more great features to the app.",
+        "title": "support the app, go pro!"
+    },
+    "messages": {
+        "f1MultiPlayerMode": "<strong>Multiplayer mode:</strong> In multiplayer mode, players will not have their usernames shown on the overlays. It's a limitation that codemasters applied to their software to protect user identities. They will probably change this in the future, we are in discussion with them about the topic.",
+        "gameModeIsInBeta": "{{selectedSim}} game mode is currently in <strong>BETA</strong> mode, as we just recently released this mode in our application."
+    },
+    "racelabLiveries": "racelab liveries by tam",
+    "releaseNotes": "release notes",
+    "socialMedia": {
+        "title": "racelab on social media"
+    },
+    "statistics": {
+        "comingSoon": "Personal statistics are in development and it's coming soon for {{sim}}",
+        "iracing": {
+            "howToActivate": "To activate personal statistics, please join to a session in iRacing."
+        }
+    },
+    "rlroadmap": {
+        "title": "racelab roadmap",
+        "description": "Submit your feedback and feature ideas! Get involved over on our development Roadmap."
+    },
+    "giftmembership": {
+        "title": "Give the gift of racelab membership",
+        "description": "Gift 3 month, 6 months or 1 year to any of your friends with our new gifting feature",
+        "giftButtonLabel": "gift membership"
+    },
+    "priceincreasead": {
+        "title": "NEW MEMBERSHIPS: PRICE INCREASE",
+        "content2": "As long as you remain subscribed, you'll continue to enjoy your Pro membership for 3.90 EUR/month and 39.90 EUR/year.",
+        "content1": "From 1 March 2024, we will be changing the price for new Pro subscriptions to 4.90 EUR/month and 49.90 EUR/year.",
+        "linkLabel": "Click here to learn more",
+        "modal": {
+            "title": "PRICING UPDATE FOR NEW SUBSCRIBERS",
+            "subTitle": "From the 1st of March 2024, we will change the price for new Pro subscriptions to 4.90 EUR/month and 49.90 EUR/year",
+            "content1": "Despite rising costs everywhere, including our costs, we've tried to maintain our prices as long as we could.",
+            "question1": "I have an active monthly membership for 3.90 EUR/month. What happens when it renews?",
+            "content2": "There are no plans currently to change existing subscriptions. If you are already subscribed, nothing changes for you until you cancel.",
+            "closeBtnLabel": "Close popup",
+            "question2": "I have an active yearly membership for 39.90 EUR/year. What happens when it renews?",
+            "answer1": "Your price remains the same and you'll be charged 3.90 EUR/month for as long as your subscription is active.",
+            "answer2": "Your price remains the same and you'll be charged 39.90 EUR/year for as long as your subscription is active.",
+            "answer3": "Make sure you're subscription is not cancelled or expired because you can only resubscribe at the new price.",
+            "question3": "How can I make sure that I continue to pay the lower price?"
+        }
+    }
+}

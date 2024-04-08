@@ -1,0 +1,28 @@
+{
+  "extends": ["tslint:recommended", "tslint-react"],
+  "rules": {
+    "jsx-no-lambda": false,
+    "jsx-no-multiline-js": false,
+    "interface-name": [true, "never-prefix"],
+    "trailing-comma": false,
+    "arrow-parens": false,
+    "ordered-imports": false,
+    "triple-equals": false,
+    "interface-name": false,
+    "no-console": false,
+    "object-literal-shorthand": false,
+    "no-string-literal": false,
+    "max-classes-per-file": false,
+    "comment-format": false,
+    "no-empty-interface": false,
+    "prefer-const": false,
+    "jsx-wrap-multiline": false,
+    "forin": false,
+    "class-name": false,
+    "jsx-alignment": false,
+    "jsx-self-close": false
+  },
+  "linterOptions": {
+    "exclude": ["./shared/dtos/*.ts"]
+  }
+}

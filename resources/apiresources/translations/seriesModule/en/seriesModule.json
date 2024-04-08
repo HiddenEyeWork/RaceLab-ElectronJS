@@ -1,0 +1,141 @@
+{
+    "backToSeriesListPageButtonLabel": "back to series list",
+    "featureComingSoon": "Coming soon",
+    "friendsLapTimes": {
+        "searchAndAddDriverInput": "search and add driver",
+        "showBestLaptimesFilter": {
+            "best0": "B0",
+            "best0Tooltip": "Don't include any best laptime to the list",
+            "best1": "B1",
+            "best1Tooltip": "include 1 best laptime to the list",
+            "best3": "B3",
+            "best3Tooltip": "include 3 best laptimes to the list",
+            "best5": "B5",
+            "best5Tooltip": "include 5 best laptimes to the list"
+        },
+        "tableColumns": {
+            "delta": "Delta",
+            "friendsDelta": "Friends Delta",
+            "iRating": "iRating",
+            "laptime": "Laptime",
+            "name": "Name"
+        },
+        "title": "friends"
+    },
+    "lapTimeTypes": {
+        "qualiLaptimeAverage": "average qualy laptime",
+        "qualiLaptimeBest": "best qualy laptime",
+        "raceLaptimeAverage": "average race laptime",
+        "raceLaptimeBest": "best race laptime"
+    },
+    "lastRacesCardsOnDashboard": {
+        "lastRacedLabel": "Last Raced: {{date}}"
+    },
+    "nthWeek": "week {{num}}",
+    "paceGraph": {
+        "averagePace": "Average Pace",
+        "badPace": "Bad Pace",
+        "fastPace": "Fast Pace",
+        "noPace": "No Pace",
+        "offPace": "Off Pace"
+    },
+    "raceStatsTab": {
+        "mostPolesTable": {
+            "columns": {
+                "irating": "iRating",
+                "name": "Name",
+                "poles": "Poles"
+            },
+            "title": "most poles"
+        },
+        "mostRacesTable": {
+            "columns": {
+                "irating": "iRating",
+                "name": "Name",
+                "races": "Races"
+            },
+            "title": "most races"
+        },
+        "mostWinsTable": {
+            "columns": {
+                "irating": "iRating",
+                "name": "Name",
+                "wins": "Wins"
+            },
+            "title": "most wins"
+        },
+        "overallIncidentsTable": {
+            "columns": {
+                "incidents": "Inc.",
+                "irating": "iRating",
+                "name": "Name"
+            },
+            "title": "overall incidents"
+        },
+        "positionsGainedTable": {
+            "columns": {
+                "gained": "Gained",
+                "irating": "iRating",
+                "name": "Name"
+            },
+            "title": "positions gained"
+        },
+        "top5HypeTable": {
+            "columns": {
+                "irating": "iRating",
+                "name": "Name",
+                "top5": "Top5"
+            },
+            "title": "top 5 hype"
+        }
+    },
+    "scheduleAndPace": {
+        "laps": "laps",
+        "lapsTooltip": "amount of laps of the race",
+        "rlDate": "rl date",
+        "rlDateTooltip": "start date of the race in real date",
+        "simDate": "sim date",
+        "simDateTooltip": "start date of the race in the sim",
+        "simTime": "sim time",
+        "simTimeTooltip": "start time of the race in the sim",
+        "title": "schedule"
+    },
+    "selectCarClassFirst": "Please select a car class first.",
+    "seriesCard": {
+        "avgIncLabel": "avg.inc",
+        "avgIncLabelTooltip": "Average incidents on a race",
+        "avgSofLabel": "avg.sof",
+        "avgSofLabelTooltip": "Average strength of field",
+        "botSofLabel": "bot.sof",
+        "botSofLabelTooltip": "Bottom/Lowest strength of field",
+        "classCategory": "Class {{licenseName}}",
+        "dprLabel": "dpr",
+        "dprLabelTooltip": "Drivers per race",
+        "startsLabel": "starts",
+        "startsLabelTooltip": "Overall race starts",
+        "topSofLabel": "top.sof",
+        "topSofLabelTooltip": "Highest strength of field",
+        "totalIncLabel": "total inc",
+        "totalIncLabelTooltip": "Total incidents across all races"
+    },
+    "seriesListPage": {
+        "cars": "cars",
+        "carsEmptyLabel": "All",
+        "carsTooltip": "Choose a car you want to filter by",
+        "category": "category",
+        "categoryTooltip": "choose the race type of your series",
+        "favorite": "favorite",
+        "favoriteTooltip": "Show only favorit series",
+        "seriesSearch": "series search",
+        "seriesSearchTooltip": "Search by series name, car name"
+    },
+    "seriesStatsTabs": {
+        "laptimes": "laptimes",
+        "participationAndSof": "participation & sof",
+        "racestats": "Race Stats",
+        "scheduleAndPace": "schedule & pace"
+    },
+    "thisWeekIsOnlyForPro": "This week's data require a Pro member level.",
+    "unspecified": "[translate]",
+    "requireProMembership": "requires pro membership"
+}

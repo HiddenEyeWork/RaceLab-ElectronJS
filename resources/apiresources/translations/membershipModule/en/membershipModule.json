@@ -1,0 +1,78 @@
+{
+    "backBtnLabel": "back",
+    "errorsMessages": {
+        "featureTemporarlyNotAvailable": "Feature temporarly not available",
+        "invalidCoupon": "Invalid coupon",
+        "paymentFailed": "Payment failed. Please try again or contact us to help solving the issue.",
+        "pleaseTryAgainLater": "Please try again later."
+    },
+    "manageMembership": {
+        "currentPlan": "{{name}} plan active",
+        "currentPlanExpires": "Your current plan expires: {{date}}",
+        "currentPlanRenews": "Your current plan renews: {{date}}",
+        "manageMembershipBtnLabel": "Manage Membership"
+    },
+    "membershipPlans": {
+        "discount": "discount",
+        "eurPerDay": "only ~{{num}} EUR / day",
+        "free": {
+            "description": "Free access to overlays with basic features and customization.",
+            "features": [
+                "Basic Overlays",
+                "Basic Features & Customization",
+                "Limited Series Stats",
+                "Multiple Sim support"
+            ],
+            "name": "free"
+        },
+        "orLabel": "or",
+        "perMonth": "/mo",
+        "perYear": "/yr",
+        "planActiveBtnLabel": "plan active",
+        "pro": {
+            "description": "Help support RaceLab and get access to more options and customization for your overlays",
+            "features": [
+                "Basic Overlays",
+                "Basic Features & Customization",
+                "Limited Series Stats",
+                "Multiple Sim support"
+            ],
+            "highlightedFeatures": [
+                "Pro Overlays",
+                "Pro Streaming Overlays",
+                "Layout builder",
+                "Full Series Stats",
+                "Unlock all customization options",
+                "Help support the app"
+            ],
+            "name": "pro"
+        },
+        "selectPlanBtnLabel": "select plan"
+    },
+    "paymentForm": {
+        "afterPaymentInfo": "After the payment, you might need to restart the app to reflect your pro status.",
+        "couponCode": "Coupon Code",
+        "noCardInformationStored": "We do not store your card information.",
+        "paymentsAreSecure": "Payments are all handled externally and securely in your browser with HTTPS (SSL) enabled.",
+        "payNowBtnLabel": "Pay now",
+        "payNowBtnLoadingLabel": "loading…",
+        "paypalIsComingLabel": "Paypal payment is coming in March 2023",
+        "safeAndSecureTitle": "Safe & Secure",
+        "selectPaymentMethod": "Select your payment method",
+        "subscriptionDuration": "Subscription duration",
+        "subscriptionDurationOptions": {
+            "monthly": "Monthly",
+            "yearly": "Yearly"
+        },
+        "supportedPaymentMethods": {
+            "applePay": "Apple Pay",
+            "creditCards": "Credit Cards",
+            "debitCards": "Debit Cards",
+            "googlePay": "Google Pay"
+        },
+        "weSupportTheFollowingPaymentOptions": "We support"
+    },
+    "successfulPayment": "Payment successful. You are a Pro member now.",
+    "title": "Memberships",
+    "unspecified": "[translate]"
+}

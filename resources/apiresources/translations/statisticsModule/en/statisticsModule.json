@@ -1,0 +1,36 @@
+{
+  "calendar": {
+    "toolip": "{{date}} - {{raceCount}} races"
+  },
+  "gainedAndLostIratingGraph": {
+    "gainedLabel": "gained",
+    "lostLabel": "lost"
+  },
+  "goodAndBadStats": {
+    "bestCar": "best car",
+    "bestQualy": "best qualify",
+    "bestResult": "best result",
+    "bestTrack": "best track",
+    "leastIncidents": "least inc.",
+    "mostIncidents": "most inc.",
+    "mostPositionsGained": "most pos. gained",
+    "mostPositionsLost": "most pos. lost",
+    "worstCar": "worst car",
+    "worstQualy": "worst qualify",
+    "worstResult": "worst result",
+    "worstTrack": "worst track"
+  },
+  "iratingChartGraphTitle": "irating",
+  "raceStats": {
+    "averageFinish": "av. finish",
+    "averageStart": "av. start",
+    "poles": "poles",
+    "races": "races",
+    "top5": "top 5",
+    "win": "win",
+    "winPercent": "win %",
+    "wins": "wins"
+  },
+  "unspecific": "[translate]",
+  "weeklyIratingChangesGraphTitle": "weekly irating changes"
+}

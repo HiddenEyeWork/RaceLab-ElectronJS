@@ -1,0 +1,683 @@
+{
+  "releases": [
+    {
+      "version": "v1.2.5",
+      "date": "25.04.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Feature",
+          "items": [
+            "Standings sliding menu delay was added as an option",
+            "Added 'Top Poles' table for series race stats page",
+            "Added 'Most Wins' table for series race stats tab"
+          ]
+        },
+        {
+          "title": "Fixes/Improvements",
+          "items": [
+            "Dashboard dusplicated race participation calendar has been fixed",
+            "Standings column improvements. It's been rewritten from the ground up. It has nice and tidy columns now without any extra spaces"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v1.2.4",
+      "date": "18.04.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Feature",
+          "items": [
+            "Welcome our podcast partners: Everyday iRacers! Feel free to listen them through the ui (dashboard), or follow them on all the different platforms (spotify, google podcast, etc..)",
+            "Standings overlay received some animation when positions change",
+            "Added Season selector for series page. Now you can look at historical data and compare how you did against your friends/iracers"
+          ]
+        },
+        {
+          "title": "Fixes/Improvements",
+          "items": [
+            "Fixing standings Gap parameter in replay mode",
+            "Fixing standings driver name where part of the driver name was hidden for no reason",
+            "Fixed telemetry sharing where you did not receive telemetry for your friend in the same car class",
+            "Fixed layout not saving the layout name",
+            "Fixing car brand on the input telemetry comparison bar",
+            "Fixed issue where laptimes were incorrect when changing season in series module"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v1.1.3",
+      "date": "09.04.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Feature",
+          "items": [
+            "Pitbox Overlay! Track your track wear, temperatures, see where your pitstall is, pitlimiter indicator."
+          ]
+        },
+        {
+          "title": "Fixes/Improvements",
+          "items": [
+            "Login improvement: solved issue with time sync on windows when users could not log in",
+            "Improved input fields, setting an exact value for a number field (with double click) has been improved",
+            "VR overlays alignments: VR overlays will no longer have the yellow border when not in edit mode. Sometimes yellow border showed on one side of the overlays, that has been fixed.",
+            "Standings - visualized laptimes was not working, fixed and now it's back again. Even more: you can turn it of anytime you want visualized laptimes (practice/qualy/race)",
+            "Fixing and fine-tuning pitboxhelper overlay"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v1.0.1",
+      "date": "02.04.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "Fixes",
+          "items": ["Various fixes with some edge cases when processing iracing data"]
+        }
+      ]
+    },
+    {
+      "version": "v1.0.0",
+      "date": "02.04.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": [
+            "Show/Hide overlays will trigger a notification to easier see when that action was triggered",
+            "Lock/Unlock overlays will trigger a notification to easier see when that action was triggered",
+            "Added missing series and cars to the layout builder",
+            "Added a switch button to the settings page to be able to completely disable saving your telemetry"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Layout editor fix - layout wasn't detected as active when only category and car was selected"]
+        }
+      ]
+    },
+    {
+      "version": "v0.34.2",
+      "date": "28.03.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": ["Improved visuals for standings, added inactive state for drivers when they are not in the car"]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Flickering input telemetry window fix when overlay was opened in standalone mode"]
+        }
+      ]
+    },
+    {
+      "version": "v0.34.1",
+      "date": "27.03.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": [
+            "Input telemetry was updated with track temperature, fuel load, car brand and delta time indicators, as well as choosing the position of the comparison information bar"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed issue when nothing was showing in a session when drivers with special character names is present",
+            "Standings INT and GAP showed x instead of x.0 (e.g.: 3s instead of 3.0s)",
+            "Fixed pit time tracking in team racing when driver swap happens",
+            "Flickering input telemetry window fix when overlay was opened in standalone mode",
+            "Fixed head2head not accepting setting changes"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.32.3",
+      "date": "21.03.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Features",
+          "items": [
+            "Added reset button for key & button bindings settings page for each key binding",
+            "Import/Export functionality added to layouts to be able to share layouts between each other",
+            "Data block overlay values can have custom colors now"
+          ]
+        },
+        {
+          "title": "Changes",
+          "items": [
+            "Head2Head overlay sector times were reduced in size a bit",
+            "Changed garage cover default image and added more cover image variations to choose",
+            "Input telemetry performance and visual improvements",
+            "Input telemetry will stop when you stop the replay"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed driver licence letters on dashboard",
+            "Head2Head ui fixes",
+            "Head2Head gap time fix, now it shows you the proper distance instead of pure relative distance",
+            "Head2Head sometimes showed an extra sector time of the track which was always empty",
+            "Improved int and gap timings on standings",
+            "Fixed orders of car classes in few cases when the faster car class wasn't on top of the multiclass standings view"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.28.0",
+      "date": "05.03.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": [
+            "Added ABS widget to the selectables widgets",
+            "Added button mapping (settings => button mapping), to be able to do many things from your cockpit",
+            "Added new widget: car setup name (helps noticing if you accidentally load up or using a wrong setup)",
+            "Opening overlays will change the overlay button to a 'close overlay' button"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed when radar overlay didn't dissapear on ctrl+shift+h",
+            "Fixed minimized browser opener button on the overlay settings page",
+            "Fixed standings multiple class separation when sometimes it wasn't separating from other class groups",
+            "Fixed standings race briefing when results were misaligned with the drivers ( only occured when no widgets were selected for standings)",
+            "Fixed standings for replays when positions were not correct right before the race started",
+            "Fixed time zone issue with race laptimes in series module"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.27.1",
+      "date": "20.02.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Module - Series!",
+          "items": [
+            "Compare your laptime with others and your friends",
+            "Be aware of the fastest laptime of the week",
+            "Know the car differences on each week in multiclass races",
+            "Check toplists of some fun facts for each series"
+          ]
+        },
+        {
+          "title": "Changes",
+          "items": [
+            "Live positions improvements",
+            "Added car brand option to relatives",
+            "Added stint indicators to standings and relatives",
+            "Performance improvements and fixes for some who suffered +20% cpu usage",
+            "Added tire history",
+            "Added tire history with number of laps completed on the tire",
+            "Removed Race and Practice specific settings from Head2Head overlay, since this behaviour is replaced with the layout builder feature"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Cycling trough the positions will not break the standings overlay anymore",
+            "Fixed standings issue where it didn't show positions on hosted multiclass races",
+            "Fixed standings dissapearing randomly on joining to new sessions",
+            "Fixed skip barber car brand to show",
+            "Visual fixes/adjustments in Head2Head overlay",
+            "Fixed login screen, window size was too big"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.25.2",
+      "date": "16.02.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Features",
+          "items": [
+            "Added new widget: traction control",
+            "Added possibility to change icon color in data blocks overlay",
+            "Added 'start minimized' settings to the app settings page",
+            "Added VR support for data blocks",
+            "Added VR support for flags"
+          ]
+        },
+        {
+          "title": "Changes",
+          "items": [
+            "Improved VR experience for many overlays (Head2Head, Fuel Calculator, Input telemetry, Advanced panel)",
+            "Improved widget icons",
+            "New app icon... yaay",
+            "Dashboard category chooser will remember the last selected category (road / oval / ...)",
+            "Improved widget look and sizes on relative overlay",
+            "Improved dropdown input element. Now it also has a search field to find items easier in the list"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixing relative widget font size when scaling the overlay",
+            "Calendar will show a full year span race history now, including the last year",
+            "Standigns dissapearing bug fixed. It happened when multiclass option was turned on but number of multiclass drivers was set to 0"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.25.0",
+      "date": "23.01.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Features",
+          "items": [
+            "Number input changes on double click to a manual entry input to enter the number more conveniently",
+            "Slider input changes on double click to a manual entry input to enter the number more conveniently",
+            "Layout editor: ability to select only car for a layout as the only activation rule"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Fixed layout editor category/series/car issues where the layout did not show up"]
+        }
+      ]
+    },
+    {
+      "version": "v0.24.2",
+      "date": "15.01.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Features",
+          "items": ["Added dark mode for radar overlay"]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Fixed last laptime bug"]
+        }
+      ]
+    },
+    {
+      "version": "v0.24.1",
+      "date": "15.01.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": [
+            "Sliding menu will not take in account the 'hide last laptime' delay timer when it shows last lap time",
+            "Added decimal count option for the fuel calculator overlay"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Fixed scaling issue with the positions changed column icons on Standings Overlay"]
+        }
+      ]
+    },
+    {
+      "version": "v0.23.0",
+      "date": "12.01.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Features",
+          "items": [
+            "Adding Cars option to the layout builder for the layout activation",
+            "Added telemetry length option for input telemtry"
+          ]
+        },
+        {
+          "title": "Changes",
+          "items": ["Introduced Enable/Disable hardware acceleration settings in the settings / application menu"]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Various bugfixes for the layout builder"]
+        }
+      ]
+    },
+    {
+      "version": "v0.22.0",
+      "date": "09.01.2021",
+      "description": "",
+      "changes": [
+        {
+          "title": "New Features",
+          "items": [
+            "Layout Editor - the intelligent way of organizing your overlays",
+            "Data Blocks - the missing overlay for showing individual data",
+            "Radar - to know where others are"
+          ]
+        },
+        {
+          "title": "Changes",
+          "items": [
+            "Added new Widget data: Track name",
+            "Added new Widget data: Series name",
+            "Added new Widget data: Driver info"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Fixed frame rate issues that was happening with few people during using the app"]
+        }
+      ]
+    },
+    {
+      "version": "v0.19.14",
+      "date": "29.12.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": ["Standings overlay settings re-arrangements"]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed problem where overlays did not appear on the next race.",
+            "Advanced panel shifting indicator size was too big by default"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.19.12",
+      "date": "22.12.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Improvements",
+          "items": ["New loading screen"]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed advanced panel issue when it was not appearing after a race",
+            "Fixed an issue where older versions of the app will have issues accessing pro features",
+            "Last lap indication on standings were misaligned",
+            "Flags had the wrong title on it's setting page"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.19.9",
+      "date": "22.12.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Improvements",
+          "items": [
+            "Added Air Temperature widget in the selectable widgets",
+            "Relative overlay will always show now, when player is joined in the session",
+            "Pitting badge placement improved. it does not take up as much space as before",
+            "Standings style improvements",
+            "Lamborghini car brand added"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": ["Relative overlay's pit badge won't make the overlay alternate it's size back and forth"]
+        }
+      ]
+    },
+    {
+      "version": "v0.19.5",
+      "date": "16.12.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Improvements",
+          "items": [
+            "Overlays intelligently reconnecting to the data flow in certain cases, meaning we wont have empty overlays that are not showing up because of this reason"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Style adjustments for Race Briefings",
+            "Removed leading '00' from Race Briefing's laptimes",
+            "Standings top/ahead/behind driver count was rewritten and fixed",
+            "Fuel Calculator 'finish' metric is fixed",
+            "Advanced panel activation issues were solved"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.19.3",
+      "date": "14.12.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Fixes",
+          "items": ["Safety rating badge height adjustments", "Fuel calculator 'finish' column was not working"]
+        },
+        {
+          "title": "Changes",
+          "items": [
+            "Increased maximum text scale to 100 to support screen-wide overlay sizes",
+            "Added new selectable metric: ARB Blades (Anti-Roll bar blades)",
+            "Added 'race briefing' feature to standings, standalone overlay for race briefing is coming soon",
+            "Improvement on switch button states to make it more prominent whether it's on or in off state",
+            "Added Best/Worst car to show on the dashboard",
+            "Added Best/Worst track to show on the dashboard"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.18.4",
+      "date": "07.12.2020",
+      "description": "Minor fixes, shortcut changes",
+      "changes": [
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed VR mode - overlay did not switch to VR mode when it was activated",
+            "Fixed currency symbol on membership page",
+            "Fixed Advanced panel overlay issue when it did not appear when chaning sessions"
+          ]
+        },
+        {
+          "title": "Shortcut changes, additions",
+          "items": ["Lock/Unlock: CTRL + SHIFT + L", "Show/Hide: CTRL + SHIFT + H", "VR mode on/off: CTRL + SHIFT + V"]
+        }
+      ]
+    },
+    {
+      "version": "v0.18.3",
+      "date": "04.12.2020",
+      "description": "Personal statistics is here! Support us and buy our PRO package!",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": [
+            "Turned on personal statistics page",
+            "Activatd membership packages. We offer Free and Pro membership packages.",
+            "Introduced accounts and authentication to support upcoming features and facilitate payments in the app"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.17.2",
+      "date": "21.10.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": ["Fixed pit indicator causing relatives to 'jump' in size", "Extended pro period"]
+        }
+      ]
+    },
+    {
+      "version": "v0.17.1",
+      "date": "29.09.2020",
+      "description": "",
+      "changes": [
+        {
+          "title": "Changes",
+          "items": [
+            "Introduced the separation of FREE and PRO plans in the overlays",
+            "Added alignment options for each overlay for aligning the overlays in streaming platforms (in obs/streamlabs obs/etc..)",
+            "VR overlay buttons will not show in case it's not supported on a particular overlay",
+            "Added info and beta markers for features and overlays",
+            "Input telemetry components changes when aligning to the right",
+            "Improved on the responsiveness of the overlays when settings are changed",
+            "Added reset overlay position button for each overlay, now you can reset the position of a single ovelay instead of resetting positions for all the opened overlays",
+            "Fuel calculator rework, the base of the upcoming features to this overlay, now it received a new look and fixed additional fuel bug where the additional fuel amount was not taken into account when auto-refueling was set",
+            "Color picker now is available for the title of the overlays, you can change it to your liking",
+            "Added a preview button on the flags overlay",
+            "Added marker when someone is talking on standings and relatives overlay",
+            "Joker icon size fix for relative and standings. Scaling the overlays did not affect the size of the joker lap icon",
+            "Advanced panel improvements. Removed fixed with, avoiding clashing widgets inside the overlay"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.16.10",
+      "date": "24.09.2020",
+      "description": "RaceLabApps renamed to RaceLab",
+      "changes": [
+        {
+          "title": "New app design",
+          "items": [
+            "New app design with an improved interface and experience",
+            "Users Statistics and Dashboard with links RaceLab socials",
+            "Improved design for Overlays customization",
+            "Separate menus items for Overlays and Streaming",
+            "Membership plans",
+            "Support page for overlays and release notes",
+            "Settings, app and overlay settings, more to come.",
+            "Login loading page"
+          ]
+        },
+        {
+          "title": "Fixes",
+          "items": [
+            "Fixed SOF",
+            "Fixed GAP on standings",
+            "Fixed driver licence background color issues",
+            "Fixed issue when session time showed 00:00 on 24h race"
+          ]
+        },
+        {
+          "title": "Standings overlay new features",
+          "items": [
+            "Added joker lap indicator",
+            "Added Visualized Laptimes",
+            "Added tire compounds column (at the moment iracing has issues with reporting all tires in a session)",
+            "UI look improvements",
+            "Reworked pitting badge design",
+            "Reworked car class icons"
+          ]
+        },
+        {
+          "title": "Relative overlay new features",
+          "items": ["Added joker lap indicator", "UI look improvements", "Reworked pitting badge design"]
+        },
+        {
+          "title": "Fuel Calculator changes",
+          "items": [
+            "Fuel calculator boxes now can wrap into multiple lines based on the width set for the overlay",
+            "Adding Fuel calculator dark mode option"
+          ]
+        },
+        {
+          "title": "Input Telemetry",
+          "items": ["Added support using it with replays"]
+        },
+        {
+          "title": "New Features/Additions/Improvements",
+          "items": [
+            "Added authentication",
+            "Added FlatMap Overlay",
+            "Added iRacing statistics to dashboard to keep track of your results",
+            "Added Chat Race for streamers",
+            "Added auto launch with windows option",
+            "Reworked overlay inputs, overlay buttons and overall the overlay pages",
+            "Added estimated pitwindow to flatmap to estimate where you will end up after a pitstop",
+            "Improved relative timings, relatives times will be accurate even at the beginning of the session"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.13.2",
+      "date": "12.06.2020",
+      "description": "Stabilization updates. Couple of bug fixes including fixing SOF and the custom garage cover on 2pc setups.",
+      "changes": [
+        {
+          "title": "Fixes",
+          "items": ["Fixed SOF ( finally )", "Fixing Custom GarageCover on 2pc setups"]
+        }
+      ]
+    },
+    {
+      "version": "v0.13.1",
+      "date": "10.06.2020",
+      "description": "Stabilization updates #1",
+      "changes": [
+        {
+          "title": "Fixes",
+          "items": [
+            "Head2Head overlay is working now in practice mode when 'personal best' option is applied",
+            "Garage cover fixes, a bug in iRacing's api let ppl see the setup for a split second when someone made modifications to it (like changing the amount of gas)",
+            "Garage cover feature: uploading custom image for cover",
+            "SOF was re-calculated during the race which led to false SOF"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.13.0",
+      "date": "01.06.2020",
+      "description": "New Overlay, Head 2 Head! From now you will be able to tell where you need to improve on the track by looking at your opponent's sector time in comparison",
+      "changes": [
+        {
+          "title": "Boost Box",
+          "items": [
+            "shows delta time of the opponent",
+            "shows position of your opponent",
+            "shows delta laptime",
+            "shows gain/loss of sector and laptimes"
+          ]
+        }
+      ]
+    },
+    {
+      "version": "v0.12.0",
+      "date": "23.05.2020",
+      "description": "New Overlay! Boost Box!",
+      "changes": [
+        {
+          "title": "Boost Box",
+          "items": [
+            "shows the car's Energy/Battery level",
+            "shows the car's Deployment level",
+            "shows the car's last lap energy/battery level",
+            "shows the car's last lap deployment level"
+          ]
+        }
+      ]
+    }
+  ]
+}

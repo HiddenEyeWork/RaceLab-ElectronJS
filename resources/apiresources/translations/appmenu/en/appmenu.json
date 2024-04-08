@@ -1,0 +1,69 @@
+{
+    "appmenu": {
+        "main": {
+            "app": "app",
+            "appsettings": "app settings",
+            "dashboard": "dashboard",
+            "layouts": "$t(overlaySettings:overlayNames.layoutoverlay)",
+            "me": "me",
+            "membership": "membership",
+            "overlays": "overlays",
+            "profilesettings": "profile settings",
+            "series": "series",
+            "settings": "settings",
+            "setups": "setups",
+            "streaming": "streaming",
+            "support": "support",
+            "friends": "Friends",
+            "drivertags": "driver tags",
+            "giftmembership": "gift membership"
+        },
+        "overlays": {
+            "advancedpanel": "$t(overlaySettings:overlayNames.advancedpanel)",
+            "boostbox": "$t(overlaySettings:overlayNames.boostbox)",
+            "datablock": "$t(overlaySettings:overlayNames.datablock)",
+            "flags": "$t(overlaySettings:overlayNames.flags)",
+            "flatmap": "$t(overlaySettings:overlayNames.flatmap)",
+            "fuelcalculator": "$t(overlaySettings:overlayNames.fuelcalculator)",
+            "head2head": "$t(overlaySettings:overlayNames.head2head)",
+            "horizontalstandings": "$t(overlaySettings:overlayNames.horizontalstandings)",
+            "inputtelemetry": "$t(overlaySettings:overlayNames.inputtelemetry)",
+            "laptimegraph": "$t(overlaySettings:overlayNames.laptimegraph)",
+            "laptimelog": "$t(overlaySettings:overlayNames.laptimelog)",
+            "pitboxhelper": "$t(overlaySettings:overlayNames.pitboxhelper)",
+            "radar": "$t(overlaySettings:overlayNames.radar)",
+            "relative": "$t(overlaySettings:overlayNames.relative)",
+            "standings": "$t(overlaySettings:overlayNames.standings)",
+            "trackmap": "$t(overlaySettings:overlayNames.trackmap)",
+            "blindspot": "$t(overlaySettings:overlayNames.blindspot)",
+            "radarbars": "$t(overlaySettings:overlayNames.radarbars)",
+            "deltabar": "$t(overlaySettings:overlayNames.deltabar)",
+            "laptiming": "$t(overlaySettings:overlayNames.laptiming)",
+            "laptimespread": "$t(overlaySettings:overlayNames.laptimespread)",
+            "minimap": "$t(overlaySettings:overlayNames.minimap)",
+            "sessiontimer": "$t(overlaySettings:overlayNames.sessiontimer)",
+            "heartrate": "$t(overlaySettings:overlayNames.heartrate)",
+            "weathermonitor": "$t(overlaySettings:overlayNames.weathermonitor)"
+        },
+        "streaming": {
+            "chat": "$t(overlaySettings:overlayNames.chat)",
+            "chathighlight": "$t(overlaySettings:overlayNames.chathighlight)",
+            "chatracegame": "$t(overlaySettings:overlayNames.chatracegame)",
+            "chatracegamestandings": "$t(overlaySettings:overlayNames.chatracegamestandings)",
+            "customtext": "$t(overlaySettings:overlayNames.customtext)",
+            "customurl": "$t(overlaySettings:overlayNames.customurl)",
+            "garagecover": "$t(overlaySettings:overlayNames.garagecover)",
+            "micvisualizer": "$t(overlaySettings:overlayNames.micvisualizer)",
+            "statbot": "statbot"
+        },
+        "support": {
+            "overlays": "overlays",
+            "releases": "releases"
+        },
+        "unspecific": "[translate]",
+        "drivertags": {
+            "gettingstarted": "getting started",
+            "taggeddrivers": "tagged drivers"
+        }
+    }
+}

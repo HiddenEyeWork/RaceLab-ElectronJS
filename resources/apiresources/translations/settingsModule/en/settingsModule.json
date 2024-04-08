@@ -1,0 +1,153 @@
+{
+    "applicationSettingsTitle": "racelab application settings",
+    "appSettingsPage": {
+        "enableHardwareAcceleration": "enable hardware acceleration",
+        "enableHardwareAccelerationTooltip": "If you experience no transparency in the overlays (full black background for all overlays) then it's advised to turn your hardware accelerartion off",
+        "notifications": {
+            "resetCache": {
+                "content": "Application cache has been cleared. Please restart RaceLab now.",
+                "title": "Settings"
+            }
+        },
+        "resetCacheBtnLabel": "reset cache",
+        "startMinimized": "start minimized",
+        "startWithWindows": "start with windows"
+    },
+    "connectionSettingsPage": {
+        "info1": "This is the connection port to the racing simulator.",
+        "info2": "Almost every racing simulator specifies a port where RaceLab can connect to. This is a number you have to specify for the application to be able to connect to the racing simulator.",
+        "info3": "You can find this value usually in the menu within the sim, or in a specific location in your file system.",
+        "info4": "If you're unsure where this value is, please check support page - first steps to know where you find this value for your selected sim.",
+        "linkLabel": "link",
+        "notifications": {
+            "simCommandPassChanged": {
+                "content": "'commandPasswordKey' settings has been changed. You have to restart RaceLab to apply this new change.",
+                "title": "Settings"
+            },
+            "simConnPassChanged": {
+                "content": "'connectionPassword' settings has been changed. You have to restart RaceLab to apply this new change.",
+                "title": "Settings"
+            },
+            "simPortChanged": {
+                "content": "Connection port settings has been changed. You have to restart RaceLab to apply this new change.",
+                "title": "Settings"
+            }
+        }
+    },
+    "friendsPage": {
+        "addingFriendsWillUnlockTheseFeatures": "Adding a friend in RaceLab will unlock the following features:",
+        "friendsFeatures": {
+            "inputTelemetryComparison": "You're sharing your input telemetry with them:",
+            "linkLabel": "link",
+            "seriesModule": "Friends laptimes, and other statistic metrics will show in the series page (iRacing related module only):"
+        },
+        "information": "This is your RaceLab friends. Please note that this is <strong>not</strong> equivalent your friends in other sim-racing titles!"
+    },
+    "keyAndButtonBindingsPage": {
+        "buttonBindings": {
+            "lockUnlockOverlays": "Lock/Unlock Overlays",
+            "openCloseNamedOverlay": "Open/Close {{name}} Overlay",
+            "showHideOverlaysAndLayouts": "Show/Hide Overlays and Layouts",
+            "toggleVr": "Toggle VR",
+            "cycledeltabarcomparisonmode": "cycle delta bar comparison mode"
+        },
+        "notifications": {
+            "shortKeyActivation": {
+                "content": "Please restart RaceLab to have all the new shortkeys activated!",
+                "title": "ShortKey Activation"
+            }
+        },
+        "resetButtonBindingsBtnLabel": "reset button bindings",
+        "restartNeededAlert": "Please restart Racelab to have all the new shortkeys activated!"
+    },
+    "logOutBtnLabel": "logout",
+    "overlaySettingsPage": {
+        "livePositionsInputTitle": "live positions",
+        "livePositionsOffInformation": "Positions will only change when you cross the start/finish line. This option does not require the number of cars to be on 63, although it is highly recommended.",
+        "livePositionsOffTitle": "Live Positions Off:",
+        "livePositionsOnInformation": "Live positions will let you see the position changes immediately during the race. It means you don't have to wait to see your position if you overtake someone. In order to make this work properly, you have to set the number of cars in iracing to 63.",
+        "livePositionsOnTitle": "Live Positions On:",
+        "nativeSimRelativesOffInformation": "Use this if you want Racelab's relative time calculation to be used. Some sims have relative timings in their telemetry, being able to tell how far two cars are from each other, others don't. Racelab has it's own implementation for relative timings in case a sim does not have such metric. There is no good or bad options for this, but it's good to know that the relative timings from the sim and the relative timings from Racelab will never 100% match. It's not because Racelab's timings are not accurate, but the nature of the relative timings itself. It's not an exact metric like meters or kg. It's a calculation based on many variables that results in a 'relative distance in seconds' metric.",
+        "nativeSimRelativesOffTitle": "Native Relative Timings Off:",
+        "nativeSimRelativesOnInformation": "Use this if you want the Sim relative calculation to be used (if available).",
+        "nativeSimRelativesOnTitle": "Native Relative Timings On:",
+        "nativeSimRelativesTitle": "Native Relative Timings",
+        "notifications": {
+            "resetOverlayPositions": {
+                "content": "Overlay positions has been reset to its default configuration.",
+                "title": "Settings"
+            },
+            "resetOverlaySettings": {
+                "content": "Overlay settings has been reset to its default configuration.",
+                "title": "Settings"
+            },
+            "resetVrSettings": {
+                "content": "VR configuration has been reset to its default configuration.",
+                "title": "Settings"
+            }
+        },
+        "resetOverlayPositionsBtnLabel": "reset overlay positions",
+        "resetOverlaySettingsBtnLabel": "reset overlay settings",
+        "resetVrSettingsBtnLabel": "reset vr settings",
+        "telemetryRecordingInputTitle": "telemetry recording",
+        "telemetryRecordingOffInformation": "No telemetry will be sent to our servers, you won't see your telemetry of your fastest laptime across sessions, your friends will not be able to see any of your telemetry either.",
+        "telemetryRecordingOffTitle": "Telemetry Recording Off:",
+        "telemetryRecordingOnInformation": "Your fastest lap telemetry will be sent to our servers to then be able to load it every time you need it and to share it with your friends (using the input telemetry comparison feature).",
+        "telemetryRecordingOnTitle": "Telemetry Recording On:"
+    },
+    "simSettingsPage": {
+        "appAndAccountSettingsBtnLabel": "app & account settings",
+        "connectionSettingsTab": "Connection Settings",
+        "overlaySettingsTab": "Overlay Settings",
+        "pageTitle": "{{sim}} overlay settings"
+    },
+    "streamingPage": {
+        "instruction": {
+            "enableChatRoles": "enable <strong>chat:read</strong>, <strong>chat:edit</strong>",
+            "generateToken": "Generate Token",
+            "generateTokenBtn": "Generate token",
+            "restartRacelab": "RESTART RaceLab",
+            "setAccessTokenHere": "set access token here",
+            "setChannelNameHere": "set your channel name (all letters lowercase)",
+            "title": "Instructions to obtain access token"
+        },
+        "twitchAccessTokenInput": "Twitch Access Token",
+        "twitchChannelNameInput": "Twitch Channel Name"
+    },
+    "tabs": {
+        "appSettings": "App Settings",
+        "friends": "Friends",
+        "keyAndButtonBindings": "key & button bindings",
+        "streaming": "Streaming"
+    },
+    "unspecified": "[translate]",
+    "driverTagsPage": {
+        "savedDriversTitle": "my saved drivers",
+        "lockedFeatureNotificationText": "Free users can save upto 5 drivers. To save more drivers, you'll need to become a pro member.",
+        "youHaventSavedAnyDriversText": "It looks like you haven't saved any drivers.",
+        "clickToLearnHowToGetStarted": "Click the button below to learn how to get started with this feature...",
+        "recentlySeenDriversTitle": "recently seen",
+        "haventRacedWithAnyoneRecently": "It looks like you haven't raced anyone recently.",
+        "whenYouJoinAllDriversWillAppear": "When you join a session, all of the drivers will appear in this list.",
+        "startTypingToFilter": "start typing to filter…",
+        "cannotAddMoreDrivers": "You cannot add more drivers in the free membership package",
+        "refreshListButtonLabel": "Refresh list",
+        "addDriverButtonLabel": "add driver",
+        "deleteButtonLabel": "delete",
+        "cancelButtonLabel": "cancel",
+        "editButtonLabel": "edit",
+        "saveButtonLabel": "save",
+        "deleteNoteWarningMessage": "Are you sure you want to delete this note? Once deleted it can't be recovered",
+        "deleteDriverWarningMessage": "Are you sure you want to delete this driver? Once deleted it can't be recovered",
+        "notesSectionLabel": "Notes",
+        "gettingStartedButtonLabel": "getting started with saved drivers"
+    },
+    "statBotPage": {
+        "information": "When you have the statbot enabled, your viewers can type special commands into your chat to get statistics and information about you or your race. You can view all the commands below, enable or disable specific commands, and choose if you want commands to be for all viewers or just your subscribers.",
+        "pageTitle": "$t(appmenu:appmenu.streaming.statbot)",
+        "groups": {
+            "driverStats": "driver stats",
+            "inSessionStats": "current session info"
+        }
+    }
+}

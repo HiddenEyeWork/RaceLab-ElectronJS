@@ -1,0 +1,37 @@
+{
+    "main": {
+        "pageTitle": "gift racelab membership",
+        "paymentinfo": {
+            "title": "Important info",
+            "content": "All Racelab gifts are one-off payments - you will only be charged once and no recurring payments will be taken."
+        },
+        "sectionchoosegift": "choose a gift",
+        "sectionchooseuser": "choose a user",
+        "infotext": "You can give the gift of a Racelab membership to any of your Racelab users: by making a one-off payment, you can gift either 3 months, 6 months or a whole year. We'll inform your friend about your gift in form of a big announcement on his dashboard screen.",
+        "giftButtonLabel": "gift membership",
+        "period": {
+            "xyear": "[num] year",
+            "xmonths": "[num] months"
+        }
+    },
+    "result": {
+        "success": {
+            "message": "you've gifted [packageName] racelab membership to [giftedUser]",
+            "submessage": "We'll let them know, and add this onto their existing membership immediately. Thank you for giving the gift of Racelab Pro!"
+        },
+        "cancelled": {
+            "message": "Uh-oh, it seems your gifting plan hit the brakes!",
+            "submessage": "In case you have any questions please send us an email to support@racelab.app or find us on Discord for some wheely good assistance!"
+        }
+    },
+    "giftnotification": {
+        "messsage": "You've been gifted [giftedPackage] of PRO Racelab membership by [gifterUserName]",
+        "submesssage": "Your friend <span>[gifterUserName]</span> has gifted you [giftedPackage] of Racelab membership. <br /> Because of this, we've activated the PRO membersip on your account starting from now! <br /> You can view your membership details on the membership page.",
+        "closeButtonLabel": "Accept and close"
+    },
+    "search": {
+        "placeholder": "search drivers",
+        "notfoundmessage": "Check your search terms and try again",
+        "notfoundtitle": "No users found"
+    }
+}

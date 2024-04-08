@@ -1,0 +1,14 @@
+{
+  "appAndSettingsBtnLabel": "app & settings",
+  "fullname": "Fullname",
+  "logoutBtnLabel": "logout",
+  "messages": {
+    "profileIsUpdated": "Profile is updated.",
+    "userAlreadyExist": "User already exists",
+    "userNameAlreadyExist": "Username already exist"
+  },
+  "unspecific": "[translate]",
+  "updateAccountBtnLabel": "update account",
+  "username": "Username",
+  "yourAccountIsConnectedVia": "Your account is connected via"
+}

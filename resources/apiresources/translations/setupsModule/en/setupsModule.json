@@ -1,0 +1,176 @@
+{
+  "common": {
+    "backBtnLabel": "back"
+  },
+  "mainPage": {
+    "filters": {
+      "seriesSearch": "series",
+      "seriesSearchTooltip": "Search by series name, car name"
+    },
+    "header": {
+      "manageSetupButtonLabel": "manage",
+      "setupPageSubTitle": "Discover setups & video guides for the cars and tracks you're racing. Rate & Comments on the setup you like to help setup creators and other drivers",
+      "setupPageTitle": "car setups & guides",
+      "submitSetupBtnLabel": "submit setup"
+    },
+    "seriesSetupResults": {
+      "header": {
+        "submitSetupBtn": "submit setup"
+      },
+      "results": {
+        "fixedSetups": {
+          "subTitle": "Statistics for fixed series will come soon",
+          "title": "No setups for fixed series"
+        },
+        "noSetups": "There are no setups for this combination yet, Be the first!",
+        "showOlderSetupsBtn": "show older setups",
+        "stats": {
+          "alreadyDownloadedTooltip": "You've already downloaded this setup.",
+          "downloadedTimesByUsers": "Downloaded {{count}} times by other users",
+          "hasVideoTooltip": "This setup has a video guide",
+          "lapsByUsersTooltip": "Users completed {{count}} laps with this setup",
+          "notDownloadedTooltip": "This setup is not yet downloaded.",
+          "noVideoTooltip": "This setup doesn't have a video guide"
+        },
+        "submitSetupBtn": "submit setup"
+      }
+    }
+  },
+  "manageSetupsPage": {
+    "header": {
+      "backBtnLabel": "$t(common.backBtnLabel)",
+      "subTitle": "Modify, delete your uploaded setups on this page",
+      "title": "Manage your uploaded Setups & Video Guides"
+    },
+    "noResults": "You didn't upload any setups yet.",
+    "setupItemMenu": {
+      "deleteSetup": "delete setup",
+      "editSetup": "edit setup"
+    }
+  },
+  "setupDetailsPage": {
+    "comments": {
+      "cancelBtn": "cancel",
+      "inputPlaceHolder": "Write some helpful information for your setups drivers.",
+      "noReviewYetContent": "Let people know what you think about the set, give some advice or just thank the setup creator!",
+      "noReviewYetTitle": "No written reviews yet, Be the first!",
+      "rateAndReview": "rate & review",
+      "submitBtn": "submit"
+    },
+    "downloadBtn": {
+      "downloaded": "downloaded",
+      "downloading": "downloading",
+      "downloadSelected": "download selected",
+      "notificationMessage": "Your setup has been downloaded into the cars iracing folder. Get driving!",
+      "notificationMessageFiles": "Files Downloaded"
+    },
+    "setupFiles": {
+      "fileAvailable": "available",
+      "fileNotAvailable": "no file",
+      "fileTypes": {
+        "blap": "BLAP",
+        "olap": "OLAP",
+        "qualy": "QUAL",
+        "race": "RACE"
+      },
+      "setupBy": "Setup by",
+      "title": "setup files"
+    },
+    "setupNotes": {
+      "noNotes": "no setup notes",
+      "title": "setup notes"
+    },
+    "stats": {
+      "charts": {
+        "aboutGraph": "About this Graph",
+        "lapsLaptimeChart": "This chart shows the lap times for the setup for each laps of the race, so you can have an understanding how the tire performance changes with this particular setup",
+        "noDataContent": "At the moment there is no data for this chart.",
+        "noDataContent2": "Come back a bit later.",
+        "noDataTitle": "No data",
+        "practiceLaptimeChart": "This chart shows the practice lap times for the setup so you can compare them to your own or just to look at what lap times are competitive compared to those with the same iRating.",
+        "qualyLaptimeChart": "This chart shows the qualy lap times for the setup so you can compare them to your own or just to look at what lap times are competitive compared to those with the same iRating.",
+        "raceLaptimeChart": "This chart shows the race lap times for the setup so you can compare them to your own or just to look at what lap times are competitive compared to those with the same iRating.",
+        "trackTempLaptimeChart": "This chart shows the lap times for the setup on every track temperature that occurred on a race, so you can have a good understanding how the setup works on different track temperatures"
+      },
+      "downloads": "downloads",
+      "drivers": "drivers",
+      "finishes": "finishes",
+      "laps": "laps done"
+    },
+    "times": {
+      "noTime": "NO TIME",
+      "qualyTime": "qualy time",
+      "raceTime": "race time"
+    },
+    "videoGuide": {
+      "title": "setup video guide"
+    }
+  },
+  "uploadSetupPage": {
+    "header": {
+      "backBtnLabel": "$t(common.backBtnLabel)",
+      "subTitle": "Upload your setups & video guides here. Make sure to leave a good description for users to better understand how to use your setup or if you have any specific comments about it.",
+      "title": "Upload Setup & Video Guide"
+    },
+    "submitForm": {
+      "buttons": {
+        "discard": "discard",
+        "submit": "confirm and upload"
+      },
+      "confirmSubmit": {
+        "cancelBtn": "cancel",
+        "confirmBtn": "confirm and accept",
+        "content": "I hereby confirm that the setup is not originates from any paid setup providers.",
+        "title": "confirm ownership"
+      },
+      "fields": {
+        "blapFile": {
+          "title": "blap file"
+        },
+        "confirmOwnership": {
+          "title": "I confirm this is my own setup and not made by someone else.",
+          "tooltip": "You are not allowed to upload any setups that made by someone else. Strictly prohibited to upload paid setups from any setup provider that you're not part of. Doing so will lead to a permanent account suspension."
+        },
+        "description": {
+          "placeHolder": "Write some helpful information for your setups drivers.",
+          "title": "setup information"
+        },
+        "olapFile": {
+          "title": "olap file"
+        },
+        "qualyLapTime": {
+          "title": "qualy laptime"
+        },
+        "qualySetupFile": {
+          "title": "qualy setup file"
+        },
+        "raceLapTime": {
+          "title": "race laptime"
+        },
+        "raceSetupFile": {
+          "title": "race setup file"
+        },
+        "setupFlavour": {
+          "helpTitle": "Add setup flavour to your setup to better describe the main characteristic of the setup",
+          "title": "setup flavour"
+        },
+        "youtubeGuide": {
+          "placeHolder": "ex.: https://youtu.be/VEpy0i6tUyo",
+          "title": "Youtube video guide link"
+        }
+      },
+      "sections": {
+        "first": "car and series",
+        "fourth": "information & video guide",
+        "second": "season, week & track",
+        "third": "files"
+      },
+      "submittedModal": {
+        "content": "Your setup has been successfully submitted and is available to RaceLab users to download and drive.",
+        "goToSetup": "go to my setup",
+        "title": "setup submitted",
+        "uploadMore": "upload another setup"
+      }
+    }
+  }
+}

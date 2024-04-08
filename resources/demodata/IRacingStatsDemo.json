@@ -1,0 +1,104 @@
+{
+  "driver": {
+    "customerId": 0,
+    "displayName": "Driver Name",
+    "region": "region",
+    "ratings": [
+      {
+        "category": 1,
+        "license": 1,
+        "iRating": "0000",
+        "safetyRating": 2.5
+      },
+      {
+        "category": 2,
+        "license": 3,
+        "iRating": "0000",
+        "safetyRating": 2.5
+      },
+      {
+        "category": 3,
+        "license": 1,
+        "iRating": "0000",
+        "safetyRating": 2.5
+      },
+      {
+        "category": 4,
+        "license": 1,
+        "iRating": "0000",
+        "safetyRating": 2.5
+      }
+    ]
+  },
+  "career": {
+    "road": {
+      "starts": "-",
+      "wins": "-",
+      "top5": "-",
+      "poles": "-",
+      "averageStart": "-",
+      "averageFinish": "-",
+      "winPercentage": "-"
+    },
+    "oval": {
+      "starts": "-",
+      "wins": "-",
+      "top5": "-",
+      "poles": "-",
+      "averageStart": "-",
+      "averageFinish": "-",
+      "winPercentage": "-"
+    },
+    "dirtOval": {
+      "starts": "-",
+      "wins": "-",
+      "top5": "-",
+      "poles": "-",
+      "averageStart": "-",
+      "averageFinish": "-",
+      "winPercentage": "-"
+    },
+    "dirtRoad": {
+      "starts": "-",
+      "wins": "-",
+      "top5": "-",
+      "poles": "-",
+      "averageStart": "-",
+      "averageFinish": "-",
+      "winPercentage": "-"
+    }
+  },
+  "seasonStats": {
+    "seasonYear": 2020,
+    "seasonQuarter": 2,
+    "bestStartingPosition": "-",
+    "bestFinishPosition": "-",
+    "worstStartingPosition": "-",
+    "worstFinishPosition": "-",
+    "mostPositionsGained": "-",
+    "mostPositionsLost": "-",
+    "cleanRaces": "-",
+    "mostIncidents": "-"
+  },
+  "history": {
+    "iRating": {
+      "road": [],
+      "oval": [],
+      "dirtRoad": [],
+      "dirtOval": []
+    },
+    "iRatingWeekDiff": {
+      "road": [],
+      "oval": [],
+      "dirtRoad": [],
+      "dirtOval": []
+    },
+    "safetyRating": {
+      "road": [],
+      "oval": [],
+      "dirtRoad": [],
+      "dirtOval": []
+    },
+    "races": []
+  }
+}

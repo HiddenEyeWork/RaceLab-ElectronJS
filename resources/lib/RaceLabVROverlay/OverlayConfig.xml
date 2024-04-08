@@ -1,0 +1,136 @@
+<System>
+  <RequestHideAll Value="false"/>
+  <WantedRefreshRate Value="30"/>
+  <!--Levels, 0=None, 1=Infos, 2=Warnings, 3=Error, 4=FatalError.-->
+  <!--Will display logs with level bigger or equal.-->
+  <LogFile Level="0"/>
+</System>
+
+<Overlays>
+  <Window WindowName="Relative Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Standings Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Horizontal Standings Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Advanced Panel Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Fuel Calculator Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Head2head Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Input Telemetry Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Boost Box Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Chat Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Flat Map Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="TrackMap Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Radar Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Data Block Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Flags Overlay" Show="true" RefreshRate="10" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Pitbox Helper Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="LapTime Log Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="LapTime Graph Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Blind Spot Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Delta Bar Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Lap Timing Overlay" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+  <Window WindowName="Lap Time Spread" Show="true" RefreshRate="30" NotLookingRefreshRate="30" HideNotLooking="false" HideNotLookingRatio="0.94999999" Yaw="0" Pitch="0" Size="0.5" Alpha="1" AlphaTransparency="1">
+    <Position X="0" Y="0" Z="-0.5"/>
+    <Crop Left="0" Right="5" Top="0" Bottom="5"/>
+    <ColorBackground R="0" G="0" B="0" A="255"/>
+    <ColorMask R="255" G="0" B="255" A="255"/>
+  </Window>
+</Overlays>
